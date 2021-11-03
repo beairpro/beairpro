@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beairpro
+- 👋 Hi, I’m beairpro
 - 👀 I’m interested in C,C#,unity,WPF
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on Looking for a fresh Intern working at Changjiang delta
-- 📫 How to reach me yuyaloong@163.com
+- 💞️ I’m Looking for a fresh Intern working at Changjiang delta
+- 📫 Reach me at yuyaloong@163.com
 
 <!---
 beairpro/beairpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
