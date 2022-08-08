@@ -1,6 +1,6 @@
 - 👋 Hi, I’m beairpro
-- 👀 I’m interested in C,C#,unity,WPF
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in C#,unity,WPF
+- 🌱 I’m currently learning OpenCVSharp
 - 💞️ I’m Looking for a fresh Intern working at Changjiang delta
 - 📫 Reach me at yuyaloong@163.com
 
